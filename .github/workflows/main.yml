@@ -14,17 +14,22 @@ jobs:
         with:
           fetch-depth: 0  # 拉取完整 Git 历史
 
-      - name: Download file
+      - name: Download File 1
         run: |
           mkdir -p files  # 确保目录存在
-          wget https://sub1.9426198.xyz/946946 -O files/b64-1.txt
+          wget "https://sub1.9426198.xyz/946946?b64" -O "files/b66-1.txt"
           # 或用 curl：
-          # curl -o files/latest-file https://example.com/your-file
+          # curl -o "files/file1-latest.zip" "https://example.com/file1.zip"
+
+      - name: Download File 2
+        run: |
+          wget "https://sub.9426198.xyz/946946?b64" -O "files/b66.txt"
+          # curl -o "files/file2-latest.csv" "https://example.com/file2.csv"
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Bot"
           git config --global user.email "bot@noreply.github.com"
-          git add files/b64-1.txt
-          git commit -m "Update file $(date +'%Y-%m-%d %H:%M:%S')"
+          git add files/  # 添加所有 files/ 下的文件
+          git commit -m "Update files: $(date +'%Y-%m-%d %H:%M:%S')"
           git push
