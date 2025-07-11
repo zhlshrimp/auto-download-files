@@ -2,7 +2,7 @@ name: Download and Commit File
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时运行一次（可修改）
+    - cron: '0 6,12 * * *'  # 每小时运行一次（可修改）
   workflow_dispatch:     # 允许手动触发
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - name: Download file
         run: |
           mkdir -p files  # 确保目录存在
-          wget https://sub1.9426198.xyz/946946 -O files/latest-file
+          wget https://sub1.9426198.xyz/946946 -O files/b64-1.txt
           # 或用 curl：
           # curl -o files/latest-file https://example.com/your-file
 
@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Bot"
           git config --global user.email "bot@noreply.github.com"
-          git add files/latest-file
+          git add files/b64-1.txt
           git commit -m "Update file $(date +'%Y-%m-%d %H:%M:%S')"
           git push
