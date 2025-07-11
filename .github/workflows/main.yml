@@ -17,7 +17,7 @@ jobs:
       - name: Download file
         run: |
           mkdir -p files  # 确保目录存在
-          wget https://sub1.9426198.xyz/946946 -O files/b64-1.txt
+          wget https://sub1.9426198.xyz/946946 -O files/latest-file
           # 或用 curl：
           # curl -o files/latest-file https://example.com/your-file
 
@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Bot"
           git config --global user.email "bot@noreply.github.com"
-          git add files/b64-1.txt
+          git add files/latest-file
           git commit -m "Update file $(date +'%Y-%m-%d %H:%M:%S')"
           git push
