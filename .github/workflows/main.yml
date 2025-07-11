@@ -40,8 +40,8 @@ jobs:
           # 构造消息内容
           MESSAGE="✅ GitHub Actions 任务完成！\n\n"
           MESSAGE+="📂 文件已更新：\n"
-          MESSAGE+="- [file1-latest.zip](https://raw.githubusercontent.com/${{ github.repository }}/main/files/file1-latest.zip)\n"
-          MESSAGE+="- [file2-latest.csv](https://raw.githubusercontent.com/${{ github.repository }}/main/files/file2-latest.csv)\n\n"
+          MESSAGE+="- [b66.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66.txt)\n"
+          MESSAGE+="- [b66-1.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-1.txt)\n\n"
           MESSAGE+="📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
 
           # 发送消息到 Telegram
