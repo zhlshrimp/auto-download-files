@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Bot"
           git config --global user.email "bot@noreply.github.com"
-          git add files/latest-file
+          git add files/b64-1.txt
           git commit -m "Update file $(date +'%Y-%m-%d %H:%M:%S')"
           git push
