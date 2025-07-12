@@ -38,10 +38,10 @@ jobs:
       - name: Notify Telegram
         run: |
           # 构造消息内容
-          MESSAGE="✅ GitHub Actions 任务完成！\n\n"
-          MESSAGE+="📂 文件已更新：\n"
-          MESSAGE+="- [b66.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66.txt)\n"
-          MESSAGE+="- [b66-1.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-1.txt)\n\n"
+          MESSAGE="✅ GitHub Actions 任务完成！%0A"
+          MESSAGE+="📂 文件已更新：%0A"
+          MESSAGE+="- [b66.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66.txt)%0A"
+          MESSAGE+="- [b66-1.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-1.txt)%0A"
           MESSAGE+="📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
 
           # 发送消息到 Telegram
