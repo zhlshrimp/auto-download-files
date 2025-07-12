@@ -2,7 +2,7 @@ name: Download and Commit File
 
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'  # 每小时运行一次（可修改）
+    - cron: '0 3,9,15,21 * * *'  # 每小时运行一次（可修改）
   workflow_dispatch:     # 允许手动触发
 
 jobs:
