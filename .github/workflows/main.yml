@@ -25,6 +25,11 @@ jobs:
         run: |
           wget "https://sub.9426198.xyz/946946?b64" -O "files/b66.txt"
           # curl -o "files/file2-latest.csv" "https://example.com/file2.csv"
+          
+      - name: Download File 3
+        run: |
+          wget "https://sub2.9426198.xyz/946946?b64" -O "files/b66-2.txt"
+          # curl -o "files/file2-latest.csv" "https://example.com/file2.csv"
 
       - name: Commit and push changes
         run: |
@@ -42,6 +47,7 @@ jobs:
           MESSAGE+="📂 文件已更新：%0A"
           MESSAGE+="- [b66.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66.txt)%0A"
           MESSAGE+="- [b66-1.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-1.txt)%0A"
+          MESSAGE+="- [b66-2.txt](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-2.txt)%0A"
           MESSAGE+="📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
 
           # 发送消息到 Telegram
