@@ -42,7 +42,7 @@ jobs:
           # 保存到环境变量
           echo "FILE1_SIZE=$FILE1_SIZE" >> $GITHUB_ENV
           echo "FILE2_SIZE=$FILE2_SIZE" >> $GITHUB_ENV
-          echo "FILE3_SIZE=$FILE2_SIZE" >> $GITHUB_ENV
+          echo "FILE3_SIZE=$FILE3_SIZE" >> $GITHUB_ENV
 
       - name: Commit and push changes
         run: |
@@ -73,7 +73,7 @@ jobs:
           # 添加文件3信息
           MESSAGE+="%0A%0A📊 *文件3*:"
           MESSAGE+="%0A- 名称: b66-2.txt"
-          MESSAGE+="%0A- 大小: ${{ env.FILE2_SIZE }}"
+          MESSAGE+="%0A- 大小: ${{ env.FILE3_SIZE }}"
           MESSAGE+="%0A- 下载: [原始文件](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-2.txt)"
           MESSAGE+="%0A📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
 
