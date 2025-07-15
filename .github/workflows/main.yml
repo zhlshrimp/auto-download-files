@@ -75,7 +75,7 @@ jobs:
           MESSAGE+="%0A- 名称: b66-2.txt"
           MESSAGE+="%0A- 大小: ${{ env.FILE2_SIZE }}"
           MESSAGE+="%0A- 下载: [原始文件](https://raw.githubusercontent.com/${{ github.repository }}/main/files/b66-2.txt)"
-          MESSAGE+="📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
+          MESSAGE+="%0A📅 时间: $(date +'%Y-%m-%d %H:%M:%S')"
 
           # 发送消息到 Telegram
           curl -s -X POST \
