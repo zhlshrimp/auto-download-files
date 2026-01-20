@@ -1,0 +1,48 @@
+name: Check and Filter URLs
+
+# 触发条件
+on:
+  schedule:
+    # 北京时间每天早上 8 点运行 (UTC 时间 0 点)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击按钮触发
+
+# 权限设置：允许 Workflow 写入仓库（提交代码）
+permissions:
+  contents: write
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run check script
+      run: |
+        python main.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 检查是否有文件变化
+        if [[ -n $(git status -s) ]]; then
+          git add files/valid_urls.txt
+          git commit -m "Auto-update: Filtered valid URLs $(date +'%Y-%m-%d')"
+          git push
+        else
+          print("No changes found.")
+        fi
