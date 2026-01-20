@@ -44,5 +44,5 @@ jobs:
           git commit -m "Auto-update: Filtered valid URLs $(date +'%Y-%m-%d')"
           git push
         else
-          print("No changes found.")
+          echo "No changes found."
         fi
