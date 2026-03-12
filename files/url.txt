@@ -191,5 +191,36 @@ https://gist.githubusercontent.com/muozalp/1af817fafa1104b81c0ffc154e7bb8f9/raw/
 https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/all.yaml
 https://gist.githubusercontent.com/nxppru/b9ce6267bb9d07a204da26bbdf5e3b86/raw/e71a4f56e104de8e60e43f9b9af76dea1e3880b4/all.yaml
 
+https://clashgithub.com/wp-content/uploads/rss/20260311.yml
+https://mm.mibei77.com/202603/03.11Clashpcs.yaml
+https://mm.mibei77.com/202603/03.10Clashopf.yaml
+https://dlconf.clashapps.cc/yaml/8bf62f7a-89d0-6e4e-e219-0474a27b3d6d.yaml
+https://www.85la.com/wp-content/uploads/2026/02/c21f969b5f03d33-3.yaml
+https://www.85la.com/wp-content/uploads/2026/02/c21f969b5f03d33-2.yaml
+https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml （每 30 分钟自动测速更新）
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yml
+https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
+https://raw.githubusercontent.com/dongchengjie/airport/refs/heads/main/subs/merged/tested_within.yaml （延迟测试版）
+https://free-clash-v2ray.github.io/uploads/2026/03/0-20260308.yaml
+https://free-clash-v2ray.github.io/uploads/2026/03/1-20260308.yaml
+https://free-clash-v2ray.github.io/uploads/2026/03/2-20260308.yaml
+https://free-clash-v2ray.github.io/uploads/2026/03/3-20260308.yaml
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
+https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml
+https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/blues.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/clashmeta.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/ndnode.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.yaml
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml
+
 
 
