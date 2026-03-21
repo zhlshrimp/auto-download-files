@@ -1,3 +1,4 @@
+https://bh.jiedianxielou.workers.dev
 https://cdn.jsdelivr.net/gh/firefoxmmx2/v2rayshare_subcription/subscription/clash_sub.yaml
 https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/NodeFree.yaml
 https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml
@@ -8,6 +9,9 @@ https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/clash/v2rayshare.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/clashnodecc.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/naidounode.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/v2rayshare.txt
+https://clash.crossxx.com/sub/hysteria/1774123204
+https://clash.crossxx.com/sub/ssr/1774123204
+https://clash.crossxx.com/sub/vmess/1774123204
 https://clashgithub.com/wp-content/uploads/rss/20260311.yml
 https://dlconf.clashapps.cc/yaml/8bf62f7a-89d0-6e4e-e219-0474a27b3d6d.yaml
 https://free-clash-v2ray.github.io/uploads/2026/03/0-20260308.yaml
@@ -18,8 +22,10 @@ https://gh-proxy.com/raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/clashnodecc.txt
 https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/naidounode.txt
 https://ghfile.geekertao.top/https://github.com/PuddinCat/BestClash/blob/main/proxies.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash
 https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/all.yaml
 https://gist.githubusercontent.com/JunfenZhang1/ad9a1adea520b1a4582e40c9073e6d0d/raw/all.yaml
+https://gist.githubusercontent.com/SAKURA-YUMI/c48036858cb3ee9c72a1ddde3846332f/raw/all.yaml
 https://gist.githubusercontent.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/all.yaml
 https://gist.githubusercontent.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/all.yaml
 https://gist.githubusercontent.com/Zhaodaidai/bd883c649ae8ed55ade3297f54b4c7cd/raw/all.yaml
@@ -34,6 +40,9 @@ https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/11/update-202511.txt
 https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/11/update-202511.txt
 https://mm.mibei77.com/202603/03.10Clashopf.yaml
 https://mm.mibei77.com/202603/03.11Clashpcs.yaml
+https://neko-warp.nloli.xyz
+https://oss.oneclash.cc/2026/03/20260321.yaml
+https://oss.oneclash.cc/2026/03/m20260321.yaml
 https://raw.githubusercontent.com/10ium/MihomoSaz/main/Sublist/4n0nymou3/multi-proxy-config-fetcher.yaml
 https://raw.githubusercontent.com/10ium/MihomoSaz/main/Sublist/NiREvil_SSTime.yaml
 https://raw.githubusercontent.com/10ium/MihomoSaz/main/Sublist/amiralter_config_lite.yaml
@@ -64,6 +73,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml
 https://raw.githubusercontent.com/DaBao-Lee/V2RayN-NodeShare/main/base64
 https://raw.githubusercontent.com/DaBao-Lee/V2RayN-NodeShare/main/base64-AI
 https://raw.githubusercontent.com/DarknessShade/WoW/refs/heads/main/clash-wg.yml
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/mixed_iran.txt
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/ss_iran.txt
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/trojan_iran.txt
@@ -75,11 +85,13 @@ https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/clash-meta-w
 https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/clash-meta.yml
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
 https://raw.githubusercontent.com/PuddinCat/BestClash/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/ShadowSocks2021.txt
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/mycustom1.txt
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/winformClash.yaml
@@ -163,6 +175,11 @@ https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.y
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/Clash.yaml
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
+https://raw.githubusercontent.com/xiaoji235/airport-free/main/clash/naidounode.txt
+https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
+https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
+https://sub.cm/kzBXnMV
 https://tt.vg/freeclash
+https://v2y.xyz/api/v1/client/subscribe?token=2533ce3df935ebaf4143fcc3df068ebd
