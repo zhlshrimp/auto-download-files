@@ -325,6 +325,16 @@ https://cdn.statically.io/gh/oslook/clash-freenode/main/clash.yaml
 https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash
 https://v1.mk/NJxbGcv
 https://tt.vg/freeclash
+https://gist.githubusercontent.com/Xiaoxin-lgx/d70b0c3fd3c04484067c1df1357a50e9/raw/1194d56a8ce0abcd4b79ae8d4ed46366c94a4fb0/all.yaml
+https://gist.githubusercontent.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/fdcff64f4d84a77d4f544e92d173a07db089e668/all.yaml
+https://gist.githubusercontent.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/30e8936b719548aa2109d359938d59bc230f237f/all.yaml
+https://gist.githubusercontent.com/JunfenZhang1/ad9a1adea520b1a4582e40c9073e6d0d/raw/ff9ed85ed6b0c3c541394f253ae4bac274866025/all.yaml
+https://gist.githubusercontent.com/Methellli/28a02ed3c3085510415c07eb9fc238a2/raw/2543538a1205664ad27584a52bbdd12c49be6fad/all.yaml
+https://gist.githubusercontent.com/lianxoy/2d87afae14845fa42302a39229882398/raw/b29d0ea26751c126b8e6435ce1cc40f2a486c63c/123.yaml
+https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/e4d84e8c1cf60dca7ba892099476d6e2a1f39dc4/all.yaml
+https://gist.githubusercontent.com/dalazhi/00911343ab05017bdb181c377b3776f4/raw/bfede3a51271b1dbfb686a74563cbbd3af04ea91/all.yaml
+https://gist.githubusercontent.com/xuehu2319/56d8962c13b41942989100c0b404994d/raw/e48730590d5d5055c77ce31eae99a5593f62f1e6/all.yaml
+https://gist.githubusercontent.com/kyotoko61-ops/e0e40d582f1b2fb8f34eceba49c9c7c5/raw/c1b624eb9f56c34cd2f52283a85dfa2a63d9d282/all.yaml
 
 
 
