@@ -19,6 +19,8 @@ https://free-clash-v2ray.github.io/uploads/2026/03/1-20260308.yaml
 https://free-clash-v2ray.github.io/uploads/2026/03/2-20260308.yaml
 https://free-clash-v2ray.github.io/uploads/2026/03/3-20260308.yaml
 https://gh-proxy.com/raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
+https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/clashnodecc.txt
+https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/naidounode.txt
 https://ghfile.geekertao.top/https://github.com/PuddinCat/BestClash/blob/main/proxies.yaml
 https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash
 https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/all.yaml
