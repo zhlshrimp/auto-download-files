@@ -48,6 +48,8 @@ https://gist.githubusercontent.com/yinqf/66e572da39489c1b2306aa42c88ec6cf/raw/al
 https://github.nodebest.xyz/base64-nodes-subscription/2025/11/update-202511.txt
 https://github.nodebest.xyz/v2ray-nodes-subscription-a/2025/11/update-202511.txt
 https://github.nodebest.xyz/v2ray-nodes-subscription-b/2025/11/update-202511.txt
+https://mm.mibei77.com/202603/03.10Clashopf.yaml
+https://mm.mibei77.com/202603/03.11Clashpcs.yaml
 https://neko-warp.nloli.xyz
 https://oss.oneclash.cc/2026/03/20260321.yaml
 https://oss.oneclash.cc/2026/03/m20260321.yaml
@@ -79,7 +81,6 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.yaml
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.yaml
 https://raw.githubusercontent.com/DaBao-Lee/V2RayN-NodeShare/main/base64
-https://raw.githubusercontent.com/DaBao-Lee/V2RayN-NodeShare/main/base64-AI
 https://raw.githubusercontent.com/DarknessShade/WoW/refs/heads/main/clash-wg.yml
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/mixed_iran.txt
