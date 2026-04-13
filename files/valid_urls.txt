@@ -89,7 +89,6 @@ https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/trojan_iran
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/vless_iran.txt
 https://raw.githubusercontent.com/Farid-Karimi/Config-Collector/main/vmess_iran.txt
 https://raw.githubusercontent.com/Misaka-blog/chromego_merge/main/sub/merged_proxies_new.yaml
-https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
 https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/clash-meta-wg.yml
 https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/clash-meta.yml
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
