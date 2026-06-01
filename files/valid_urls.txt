@@ -1,6 +1,5 @@
 https://bh.jiedianxielou.workers.dev
 https://cdn.jsdelivr.net/gh/firefoxmmx2/v2rayshare_subcription/subscription/clash_sub.yaml
-https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/NodeFree.yaml
 https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml
 https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/clash/clashnodecc.txt
