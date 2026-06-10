@@ -155,6 +155,7 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/ss
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/trojan.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vless.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/main/sub/vmess.txt
+https://raw.githubusercontent.com/hamedp-71/Clash_New/refs/heads/main/hp.yaml
 https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt
 https://raw.githubusercontent.com/igeekshare/GeekshareFreeNode/main/clash/Geekshare.yaml
 https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/meta/mix
