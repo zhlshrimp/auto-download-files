@@ -93,7 +93,6 @@ https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_co
 https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/ShadowSocks2021.txt
-https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/mycustom1.txt
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/winformClash.yaml
 https://raw.githubusercontent.com/actionsfz/v2ray/refs/heads/master/all.yaml
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
