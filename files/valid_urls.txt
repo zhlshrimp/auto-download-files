@@ -6,7 +6,6 @@ https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/clash/clashnodecc.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/clash/naidounode.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/clash/v2rayshare.txt
-https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/clashnodecc.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/naidounode.txt
 https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/v2rayshare.txt
 https://dlconf.clashapps.cc/yaml/8bf62f7a-89d0-6e4e-e219-0474a27b3d6d.yaml
@@ -17,7 +16,6 @@ https://free-clash-v2ray.github.io/uploads/2026/03/3-20260308.yaml
 https://gh-proxy.com/raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/clashnodecc.txt
 https://gh.llkk.cc/https://github.com/xiaoji235/airport-free/blob/main/v2ray/naidounode.txt
-https://ghfile.geekertao.top/https://github.com/PuddinCat/BestClash/blob/main/proxies.yaml
 https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash
 https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/all.yaml
 https://gist.githubusercontent.com/Azhuai/a511693fe905c450f3145ddf9e16d546/raw/e4d84e8c1cf60dca7ba892099476d6e2a1f39dc4/all.yaml
