@@ -126,14 +126,6 @@ https://raw.githubusercontent.com/asgharkapk/Free-Clash-Meta/main/Sublist/Simple
 https://raw.githubusercontent.com/asgharkapk/Free-Clash-Meta/main/Sublist/Simple/Mosifree/-FREE2CONFIG/Vless.yml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ssr_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/trojan_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vless_configs.txt
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
