@@ -27,7 +27,6 @@ https://gist.githubusercontent.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/a
 https://gist.githubusercontent.com/Tdison/6b745663fd038e3c63e0880ecc652bcf/raw/fdcff64f4d84a77d4f544e92d173a07db089e668/all.yaml
 https://gist.githubusercontent.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/30e8936b719548aa2109d359938d59bc230f237f/all.yaml
 https://gist.githubusercontent.com/WLget/aeb222e378a8dcbd74e06413dbacf400/raw/all.yaml
-https://gist.githubusercontent.com/Xiaoxin-lgx/d70b0c3fd3c04484067c1df1357a50e9/raw/1194d56a8ce0abcd4b79ae8d4ed46366c94a4fb0/all.yaml
 https://gist.githubusercontent.com/Zhaodaidai/bd883c649ae8ed55ade3297f54b4c7cd/raw/all.yaml
 https://gist.githubusercontent.com/dalazhi/00911343ab05017bdb181c377b3776f4/raw/bfede3a51271b1dbfb686a74563cbbd3af04ea91/all.yaml
 https://gist.githubusercontent.com/jkremser/ad3dc850b96b54ecc8657204645300e9/raw/all.yaml
@@ -179,5 +178,4 @@ https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
-https://sub.cm/kzBXnMV
 https://tt.vg/freeclash
