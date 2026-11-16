@@ -112,7 +112,6 @@ https://raw.githubusercontent.com/asgharkapk/Free-Clash-Meta/main/Sublist/Simple
 https://raw.githubusercontent.com/asgharkapk/Free-Clash-Meta/main/Sublist/Simple/Mosifree/-FREE2CONFIG/Reality.yml
 https://raw.githubusercontent.com/asgharkapk/Free-Clash-Meta/main/Sublist/Simple/Mosifree/-FREE2CONFIG/Vless.yml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
-https://raw.githubusercontent.com/clashv2ray-hub/clashfree/refs/heads/main/clash.yaml
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/clash_sub.yaml
@@ -178,4 +177,5 @@ https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
+https://sub.cm/kzBXnMV
 https://tt.vg/freeclash
